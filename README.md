@@ -32,7 +32,7 @@ WTF. What the {Fuck, Frick}. Where's the food
 
 1 Entry per line, Acronyms and descriptions are separated by `. ` (Space included), multiple definitions can be added for a single acronym by simply adding another `. ` and inserting another definition, Or by adding it on a new line.
 
-Places where multiple words could fit (like "Oh my gosh" / "Oh my goodness") are noted like such: Oh my {gosh, goodness}.
+Places where multiple words could fit (like "Oh my gosh" / "Oh my goodness") are noted like such: `Oh my {gosh, goodness}`.
 
 ## Todo
 
