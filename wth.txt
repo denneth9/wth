@@ -2080,9 +2080,6 @@ FIAT. Fix it again Tony
 ICBM. Intercontinental Ballistic Missile
 MIRV. Multiple Independent Reentry Vehicles. Multiple independently targetable reentry vehicle
 EWON. Erasable Write Only Memory
-Test. This is a Test
-Test. This is also a Test
-Test. This is a third test. With 2 Entries
 NRA. National Rifle Association
 ATF. Bureau of Alcohol, Tobacco, Firearms and Explosives
 NASA. National Aeronautics and Space Agency

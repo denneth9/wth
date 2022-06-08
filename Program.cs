@@ -75,9 +75,11 @@ namespace wtf
                         }
                     }
                 }
+                if (message.Length == 0)
+                {
+                    return $"No matches found for {str_search}"; //incase this process found nothing, notify the user of our limitations
+                }
                 return message; //return the message as formatted by this function
-
-                return $"No matches found for {str_search}"; //incase this process found nothing, notify the user of our limitations
             }
         }
     }
