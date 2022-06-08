@@ -12,7 +12,9 @@ The idea being to use it to decode
 
 ## Usage
 
-wth <acronym>
+`wth [acronym]`
+
+With [acronym] being the acronym you wish to decode
 
 Example: `wth wth` returns `WTH \n What the hell`
 
